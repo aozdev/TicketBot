@@ -1,0 +1,25 @@
+{
+  "name": "ticketbot",
+  "version": "1.0.0",
+  "description": "A fully slash-command Discord.js v14 ticket bot with MongoDB storage.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "check": "node --check app.js"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "ticket",
+    "support",
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "aozdev",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "mongoose": "^9.3.3"
+  }
+}

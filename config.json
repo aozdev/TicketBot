@@ -1,0 +1,25 @@
+{
+    "token":  "YOUR_BOT_TOKEN",
+    "clientId":  "YOUR_CLIENT_ID",
+    "developerId":  "YOUR_DEVELOPER_ID",
+    "mongoUri":  "YOUR_MONGODB_URI",
+    "embedColors":  {
+                        "primary":  "#5865F2",
+                        "success":  "#16A34A",
+                        "error":  "#DC2626",
+                        "warning":  "#D97706"
+                    },
+    
+                  "ticket":  {
+                   "panelTitle":  "Support Tickets",
+                   "panelDescription":  "Use the button below to open a private ticket. A short form will ask for a title and description before the channel is created.",
+                   "panelFooter":  "Tickets are visible only to the requester and the configured staff role.",
+                   "buttonLabel":  "Open Ticket",
+                   "closeButtonLabel":  "Close Ticket",
+                   "staffRoleName":  "Ticket Staff",
+                   "categoryName":  "Tickets",
+                   "logChannelName":  "ticket-logs",
+                   "deleteDelaySeconds":  10,
+                   "panelColor":  "#1F2937"
+               }
+}
