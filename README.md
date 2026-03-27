@@ -51,39 +51,33 @@ Add your real screenshots under `assets/screenshots/` using the file names below
 
 ### 1. System Panel
 
-Screenshot path: `assets/screenshots/01-system-panel.png`
+![System Panel](assets/screenshots/01-system-panel.png)
 
-Use this section for the main ticket panel message. This is the first thing users see before opening a ticket, so the screenshot should clearly show the embed layout, button text, and overall visual style.
+This is the main ticket panel users interact with before opening a request. It shows the panel embed, the opening button, and the clean entry point of the ticket workflow.
 
 ### 2. Ticket Creation Modal
 
-Screenshot path: `assets/screenshots/02-ticket-modal.png`
+![Ticket Creation Modal](assets/screenshots/02-ticket-modal.png)
 
-Show the modal with the required title and description fields. This is one of the strongest preview shots because it immediately communicates that the system is structured and not just a basic button click.
+The modal collects a clear ticket title and a required description before the channel is created. It helps the workflow feel structured from the first user interaction.
 
 ### 3. Active Ticket Channel
 
-Screenshot path: `assets/screenshots/03-active-ticket.png`
+![Active Ticket Channel](assets/screenshots/03-active-ticket.png)
 
-Use a screenshot of an open ticket channel with the action row visible. Make sure `Conversation Transcript` and `Close Ticket` are both visible so the workflow is obvious at a glance.
+This view shows the live support channel after a ticket is created. Keeping the transcript and close actions visible makes the workflow immediately understandable.
 
 ### 4. Staff Log Channel
 
-Screenshot path: `assets/screenshots/04-staff-log.png`
+![Staff Log Channel](assets/screenshots/04-staff-log.png)
 
-Show how ticket events are logged for staff. A strong capture here helps the project feel operational rather than purely cosmetic.
+This view shows the private staff log with closure details and the transcript attachment in one place. It highlights that the system is built for moderation workflows, not only for opening tickets.
 
-### 5. Transcript Output
+### 5. Rating Flow
 
-Screenshot path: `assets/screenshots/05-transcript.png`
+![Rating Flow](assets/screenshots/05-rating-menu.png)
 
-Use either the transcript result from the button flow or the uploaded transcript file inside the log channel. This makes the repository feel much more complete and production-ready.
-
-### 6. Rating Flow
-
-Screenshot path: `assets/screenshots/06-rating-menu.png`
-
-Show the DM rating menu after ticket closure. If possible later, add a second capture for the low-rating feedback modal as well.
+This capture shows the post-ticket DM rating flow with star-based feedback options. It gives the project a polished end-to-end feel by showing how support quality is measured after closure.
 
 ## Ticket Workflow
 
@@ -281,3 +275,8 @@ src/
 ## License
 
 This project is released under the MIT License.
+
+
+
+
+

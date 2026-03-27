@@ -9,8 +9,7 @@
                         "error":  "#DC2626",
                         "warning":  "#D97706"
                     },
-    
-                  "ticket":  {
+    "ticket":  {
                    "panelTitle":  "Support Tickets",
                    "panelDescription":  "Use the button below to open a private ticket. A short form will ask for a title and description before the channel is created.",
                    "panelFooter":  "Tickets are visible only to the requester and the configured staff role.",
