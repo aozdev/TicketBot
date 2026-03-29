@@ -46,9 +46,6 @@ These commands are visible to members with the `Manage Messages` permission.
   Fully removes the configured ticket system for the current guild and resets the ticket counter.
 
 ## Visual Walkthrough
-
-Add your real screenshots under `assets/screenshots/` using the file names below. This keeps the README ready for a polished GitHub presentation without broken image links.
-
 ### 1. System Panel
 
 ![System Panel](assets/screenshots/01-system-panel.png)
